@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&width=100%&height=300&text=KIM%20SE%20YUN🖥&fontAlign=40&fontAlignY=50&color=0:FF5733,100:900C3F&fontColor=FFFFFF&fontSize=90&stroke=FFFFFF&strokeWidth=1&">
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
