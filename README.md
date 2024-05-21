@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&width=100%&height=300&section=header&text=KIM%20SE%20YUN🖥&fontAlign=40&fontAlignY=50&color=0:9966CC,100:900C3F&fontColor=FFFFFF&fontSize=90&stroke=FFFFFF&strokeWidth=1&">
+<img src="https://capsule-render.vercel.app/api?type=waving&width=100%&height=300&section=header&text=KIM%20SE%20YUN🖥&fontAlign=50&fontAlignY=50&color=0:9966CC,100:900C3F&fontColor=FFFFFF&fontSize=90&stroke=FFFFFF&strokeWidth=1&">
 
 
 
