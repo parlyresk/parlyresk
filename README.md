@@ -11,6 +11,7 @@
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>&nbsp
   <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"></a>&nbsp 
   <br>
+  <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>&nbsp
   <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"></a>&nbsp 
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"></a>&nbsp 
   <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"></a>&nbsp 
@@ -26,7 +27,9 @@
   <a href="#"><img src="https://img.shields.io/badge/html5-11B48A?style=flat-square&logo=HTML5&logoColor=white"></a>&nbsp 
   <a href="#"><img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"></a>&nbsp
   <a href="#"><img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp
+  <a href="#"><img src="https://img.shields.io/badge/AI-4285F4?style=flat-square&logo=google&logoColor=white"></a>&nbsp
+  <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FF5733?style=flat-square&logo=openai&logoColor=white"></a>&nbsp
 </p>
 
 
